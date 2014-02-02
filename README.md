@@ -1,4 +1,6 @@
 homebrew
 ========
 
-My custom homebrew formula
+My custom homebrew formulae
+
+`brew tap joshtronic/homebrew`
