@@ -9,6 +9,10 @@ class Wetness < Formula
     bin.install 'wetness'
   end
 
+  def test
+    system 'wetness'
+  end
+
   def caveats; <<-EOS.undent
     `wetness` requires Bash 4 but OSX still ships with Bash 3.
     You can upgrade via Homebrew: `brew install bash`
