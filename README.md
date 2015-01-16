@@ -1,6 +1,13 @@
-homebrew
-========
+# formulae
 
-My custom homebrew formulae
+Homebrew formulae for my shennanigan’s
 
-`brew tap joshtronic/homebrew`
+## Usage
+
+`brew tap joshtronic/formulae`
+
+## Available formulae
+
+* `dockprof`
+* `wetness`
+
