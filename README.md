@@ -9,5 +9,5 @@ Homebrew formulae for my shennanigan’s
 ## Available formulae
 
 * `dockprof`
+* `facebook-likes`
 * `wetness`
-
