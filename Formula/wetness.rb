@@ -3,7 +3,7 @@ require "formula"
 class Wetness < Formula
   homepage "https://github.com/joshtronic/wetness"
   url "https://github.com/joshtronic/wetness/archive/1.0.0.zip"
-  sha1 "d06cdfc4f4e0c54ea2a130c51aed406f3145595d"
+  sha1 "70d771ca791e820e8d4060ff2dcfd8e8711eeb5e"
 
   def install
     bin.install 'wetness'
